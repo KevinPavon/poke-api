@@ -8,4 +8,5 @@ import { PokemonController } from './pokemon.controller';
   providers: [PokemonService],
   controllers: [PokemonController],
 })
+
 export class PokemonModule {}
